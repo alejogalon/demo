@@ -8,12 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": [
+  "profilee": [
     { "id": 1, "name": "Ashitabe", "status": "In-stable","age": "Female 4", "fathername": "Sini Minister","mothername": "oneZennoei Cid", "img": "image/one.jpg"},
     { "id": 2, "name": "Ashitabaone", "status": "In-stable","age": "Male 24", "fathername": "Rter Minister","mothername": "TwoZennoei Cid", "img": "image/two.jpg" },
     { "id": 3, "name": "Ashitabatwo", "status": "Resting","age": "Male 56", "fathername": "SSster Minister","mothername": "ThreeZennoei Cid", "img": "image/three.jpg" }
   ],
-  "newsstable": {
+  "newsstablee": {
       "total_size": 6,
       "type_id": 2,
       "offset": 0,
@@ -92,7 +92,7 @@
           }
       ]
   },
-  "linkstable": {
+  "linkstablee": {
       "total_size": 6,
       "type_id": 2,
       "offset": 0,
