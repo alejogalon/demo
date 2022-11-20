@@ -31,8 +31,7 @@
         { "id": 26, "title": "Nagano" },
 	{ "id": 27, "title": "Nagasaki" },
         { "id": 28, "title": "Nara" },
-        { "id": 29, "title": "Niigata" },
-	{ "id": 30, "title": "Oita-ken" }
+        { "id": 29, "title": "Niigata" }
   ],
   "newsstable": {
       "total_size": 6,
