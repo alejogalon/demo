@@ -2,7 +2,7 @@
   "profile": [
     { "id": 1, "name": "Ashitabe", "status": "In-stable","age": "Female 4", "fathername": "Sini Minister","mothername": "oneZennoei Cid", "img": "image/one.jpg"}
   ],
-  "prefect": [
+  "prefectures": [
 	{ "id": 1, "title":  "Aichi" },
 	{ "id": 2, "title":  "Akita" },
 	{ "id": 3, "title":  "Aomori" },
