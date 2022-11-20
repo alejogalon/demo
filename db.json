@@ -1,13 +1,4 @@
 {
-   "posts": [
-        { "id": 1, "title": "Post 1" },
-        { "id": 2, "title": "Post 2" },
-        { "id": 3, "title": "Post 3" }
-    ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": [
     { "id": 1, "name": "Ashitabe", "status": "In-stable","age": "Female 4", "fathername": "Sini Minister","mothername": "oneZennoei Cid", "img": "image/one.jpg"},
     { "id": 2, "name": "Ashitabaone", "status": "In-stable","age": "Male 24", "fathername": "Rter Minister","mothername": "TwoZennoei Cid", "img": "image/two.jpg" },
