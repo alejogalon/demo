@@ -1,15 +1,15 @@
 {
   "horses": [
-    	{ "id": 1, "name": "Ashitaba", "status": "In-stable","age": "Female 41", "fathername1": "Sini Minister","mothername1": "oneZennoei Cid", "img": "image/one.jpg"},
+    	{ "id": 1, "name": "(3)Ashitaba", "status": "In-stable","age": "Female 41", "fathername1": "Sini Minister","mothername1": "oneZennoei Cid", "img": "image/one.jpg"},
   	{ "id": 2, "name": "Ashinone", "status": "In-stable","age": "Female 42", "fathername2": "Sini Minister","mothername2": "oneZennoei Cid", "img": "image/two.jpg"},
-  	{ "id": 3, "name": "Chibake", "status": "In-stable","age": "Female 43", "fathername3": "Sini Minister","mothername3": "oneZennoei Cid", "img": "image/three.jpg"},
+  	{ "id": 3, "name": "(1)Chibake", "status": "In-stable","age": "Female 43", "fathername3": "Sini Minister","mothername3": "oneZennoei Cid", "img": "image/three.jpg"},
 	{ "id": 4, "name": "Bakuko", "status": "In-stable","age": "Female 44", "fathername4": "Sini Minister","mothername4": "oneZennoei Cid", "img": "image/four.jpg"},
 	{ "id": 5, "name": "Amora", "status": "In-stable","age": "Female 45", "fathername5": "Sini Minister","mothername5": "oneZennoei Cid", "img": "image/five.jpg"},
 	{ "id": 6, "name": "Toakine", "status": "In-stable","age": "Female 46", "fathername6": "Sini Minister","mothername6": "oneZennoei Cid", "img": "image/six.jpg"},
-	{ "id": 7, "name": "Hamura", "status": "In-stable","age": "Female 47", "fathername7": "Sini Minister","mothername7": "oneZennoei Cid", "img": "image/seven.jpg"},
+	{ "id": 7, "name": "(2)Hamura", "status": "In-stable","age": "Female 47", "fathername7": "Sini Minister","mothername7": "oneZennoei Cid", "img": "image/seven.jpg"},
 	{ "id": 8, "name": "Hukaine", "status": "In-stable","age": "Female 48", "fathername8": "Sini Minister","mothername8": "oneZennoei Cid", "img": "image/three.jpg"},
 	{ "id": 9, "name": "Akeodo", "status": "In-stable","age": "Female 49", "fathername9": "Sini Minister","mothername9": "oneZennoei Cid", "img": "image/three.jpg"},
-	{ "id": 10, "name": "Aisdio", "status": "In-stable","age": "Female 50", "fathername0": "Sini Minister","mothername0": "oneZennoei Cid", "img": "image/three.jpg"}
+	{ "id": 10, "name": "(1)Aisdio", "status": "In-stable","age": "Female 50", "fathername0": "Sini Minister","mothername0": "oneZennoei Cid", "img": "image/three.jpg"}
   ],
   "prefectures": [
 	{ "id": 1, "title":  "Aichi" },
