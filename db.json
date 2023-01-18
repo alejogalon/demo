@@ -1,5 +1,5 @@
 {
-  "horsess": [
+  "horses": [
     	{ "id": 1, "name": "(3)Ashitaba", "status": "In-stable","age": "Female 41", "fathername1": "Sini Minister","mothername1": "oneZennoei Cid", "img": "image/one.jpg"},
   	{ "id": 2, "name": "Ashinone", "status": "In-stable","age": "Female 42", "fathername2": "Sini Minister","mothername2": "oneZennoei Cid", "img": "image/two.jpg"},
   	{ "id": 3, "name": "(1)Chibake", "status": "In-stable","age": "Female 43", "fathername3": "Sini Minister","mothername3": "oneZennoei Cid", "img": "image/three.jpg"},
@@ -42,7 +42,7 @@
         { "id": 28, "title": "Nara" },
         { "id": 29, "title": "Niigata" }
   ],
-  "newsstablee": {
+  "newsstable": {
       "total_size": 6,
       "type_id": 2,
       "offset": 0,
