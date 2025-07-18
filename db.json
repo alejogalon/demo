@@ -151,5 +151,16 @@
               "type_id": 2
           }
       ]
-	}
+	},
+     "eppiusers": [
+    	{ "id": 1, "userid": "gui", "email": "Snow@n-pax.com", "fullName": "Jon Snow" },
+        { "id": 2, "userid": "alejo", "email": "Lannister@n-pax.com", "fullName": "Cersei Lannister" },
+        { "id": 3, "userid": "jaime", "email": "Lannister@n-pax.com", "fullName": "Jaime Lannister"},
+        { "id": 4, "userid": "Arya", "email": "Stark@n-pax.com", "fullName": "Arya test"},
+        { "id": 5, "userid": "Daenerys1", "email": "Targaryen@n-pax.com", "fullName": "Daenerys test" },
+        { "id": 6, "userid": "Daenerys2", "email": "Melisandre@n-pax.com", "fullName": "Arya Stark" },
+        { "id": 7, "userid": "Daenerys3", "email": "Clifford@n-pax.com", "fullName": "Daenerys Targaryen"},
+        { "id": 8, "userid": "Daenerys4", "email": "Frances@n-pax.com", "fullName": "Ferrara Clifford" },
+        { "id": 9, "userid": "Daenerys5", "email": "Roxie@n-pax.com", "fullName": "Harvey Roxie"}
+  ]
 }
