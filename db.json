@@ -165,9 +165,9 @@
   ],
 
   "eppiviewlogs": [
-    	{ "id": 1, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00123123", "message": "Jtest message test", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
-    	{ "id": 2, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00124566", "message": "Jtest message asfas", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
-    	{ "id": 3, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00129999", "message": "test8 message56", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
-    	{ "id": 4, "datetime": "2025/07/17 08:23:24", "errorcode": "0x02222222", "message": "test1 message787878", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"}
+    	{ "id": 1, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00123123", "message": "Jtest message test",  "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 2, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00124566", "message": "Jtest message asfas", "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 3, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00129999", "message": "test8 message56", "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 4, "datetime": "2025/07/17 08:23:24", "errorcode": "0x02222222", "message": "test1 message787878", "hostId": "QWOUOIUWQDW@!@"}
   ]
 }
