@@ -121,37 +121,6 @@
           }
       ]
   },
-  "linkstable": {
-      "total_size": 2,
-      "type_id": 2,
-      "offset": 0,
-      "links": [
-          {
-              "id": 1,
-              "name": "JRA Japan Central Racing Assoc",
-              "description": "The official website of the JRA Japan Racing Association.n, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquy sit amet.",
-              "price": 12,
-              "status": "Important",
-              "img": "image/four.jpg",
-              "location": "Canada, British Columbia",
-              "created_at": "October 1, 2022",
-              "updated_at": "2022-05-16 11:48:53",
-              "type_id": 2
-          },
-          {
-              "id": 2,
-              "name": "Local horse racing info site",
-              "description": "This is the [official] information site for local horse racing. openergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquy sit amet.",
-              "date": 21,
-              "status": "News",
-              "img": "image/five.jpg",
-              "location": "Icefields, Alberta",
-              "created_at": "October 2, 2022",
-              "updated_at": "2022-05-16 11:49:07",
-              "type_id": 2
-          }
-      ]
-	},
      "eppiusers": [
     	{ "id": 1, "userid": "gui", "email": "Snow@n-pax.com", "fullName": "Jon Snow" },
         { "id": 2, "userid": "alejo", "email": "Lannister@n-pax.com", "fullName": "Cersei Lannister" },
@@ -165,9 +134,9 @@
   ],
 
   "eppiviewlogs": [
-    	{ "id": 1, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00123123", "message": "Jtest message test",  "hostId": "QWOUOIUWQDW@!@"},
-    	{ "id": 2, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00124566", "message": "Jtest message asfas", "hostId": "QWOUOIUWQDW@!@"},
-    	{ "id": 3, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00129999", "message": "test8 message56", "hostId": "QWOUOIUWQDW@!@"},
-    	{ "id": 4, "datetime": "2025/07/17 08:23:24", "errorcode": "0x02222222", "message": "test1 message787878", "hostId": "QWOUOIUWQDW@!@"}
+    	{ "id": 1, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00123123", "message": "Jtest message test", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 2, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00124566", "message": "Jtest message asfas", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 3, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00129999", "message": "test8 message56", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 4, "datetime": "2025/07/17 08:23:24", "errorcode": "0x02222222", "message": "test1 message787878", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"}
   ]
 }
