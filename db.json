@@ -162,5 +162,12 @@
         { "id": 7, "userid": "Daenerys3", "email": "Clifford@n-pax.com", "fullName": "Daenerys Targaryen"},
         { "id": 8, "userid": "Daenerys4", "email": "Frances@n-pax.com", "fullName": "Ferrara Clifford" },
         { "id": 9, "userid": "Daenerys5", "email": "Roxie@n-pax.com", "fullName": "Harvey Roxie"}
+  ],
+
+  "eppiviewlogs": [
+    	{ "id": 1, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00123123", "message": "Jtest message test", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 2, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00124566", "message": "Jtest message asfas", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 3, "datetime": "2025/07/17 08:23:24", "errorcode": "0x00129999", "message": "test8 message56", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"},
+    	{ "id": 4, "datetime": "2025/07/17 08:23:24", "errorcode": "0x02222222", "message": "test1 message787878", "database": "DBTEST" , "hostId": "QWOUOIUWQDW@!@"}
   ]
 }
